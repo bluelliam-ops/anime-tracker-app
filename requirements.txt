@@ -1,0 +1,31 @@
+Features:
+
+Must Have:
+
+Profile to view all of the anime you have watched/rated.
+Anime Database you can view in the app.
+Each anime has a Name, Japanese_Name, Type, Episodes, Release, Tags, Avg_Rating, Release_Year, Description, Content_Warning, Related_Manga, Related Anime, Voice Actors, and Staff.
+Cover Art for all of the anime.
+Search Bar to look for specific anime.
+
+Should Have:
+
+What your status is on the anime. (Watching, Completed, etc.)
+Favorite Anime List.
+Review each anime and comment on anime.
+Create a customer profile picture and name for your profile.
+Basic settings for user accessibility. 
+
+Could Have:
+
+Be able to create a basic profile with a username & password within the app.
+Manga Database you can view in the app.
+Dark Mode/Light Mode.
+Favorite Characters.
+Submit new anime to add to list through a submissions tab.
+Admin account/permissions.
+
+Won't Have:
+
+Light Novel Database you can view in the app.
+
